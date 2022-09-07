@@ -11,9 +11,11 @@ Root: 7
 ```
 
 2nd step: We must add 5 to the left 'cause 5 < 7
+```
     7
   /
 5
+```
 
 3rd step:  We must add 1 to the left 'cause 1 < 7 and again left 'cause 1 < 5
 ```
