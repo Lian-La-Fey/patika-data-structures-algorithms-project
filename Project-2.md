@@ -10,3 +10,5 @@ Big-O gösterimini yazınız.
 4th step: [16] [11,21] [8,12] [22]
 5th step: [11,16,21] [8,12,22]
 6th step: [8,11,12,16,21,22]
+
+[patika.dev](https://patika.dev)
